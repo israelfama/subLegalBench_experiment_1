@@ -1,0 +1,1 @@
+This folder contains files generated using the Llama2-7B-Chat model. Unlike base models, Llama2-7B-Chat has been fine-tuned specifically for conversational tasks, making it better suited for dialogue and instruction-following applications.
